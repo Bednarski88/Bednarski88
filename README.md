@@ -17,6 +17,7 @@ this stamp -> :white_check_mark: does not mean the end of learning this element.
 ### AND THIS IS LIST MY PROJECT<br>
 :white_check_mark: analog clock<br>
 :white_check_mark: weather app<br> 
+:white_check_mark: snake game<br> 
 :point_right: todolist<br>
 :point_right: dashboard(customer profil)<br>
 :soon: pomodoro<br>
